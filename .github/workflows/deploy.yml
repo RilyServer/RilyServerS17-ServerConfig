@@ -18,5 +18,4 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd ${{ secrets.SERVER_DEPLOY_DIR }}
-            git pull origin main
+            C:\Users\souma\Desktop\MineCraft_server_files\S17\config\.github\deploy.bat
