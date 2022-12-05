@@ -1,0 +1,78 @@
+{
+ "sweetmagic:witchmadame_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:angel_harness:0": {
+  "heat": 0.35,
+  "cold": 5.0
+ },
+ "minecraft:diamond_horse_armor:0": {
+  "heat": 2.0,
+  "cold": 2.0
+ },
+ "sweetmagic:aether_choker:0": {
+  "heat": 2.0,
+  "cold": 0.25
+ },
+ "sweetmagic:farm_apron:0": {
+  "heat": 0.35,
+  "cold": 0.35
+ },
+ "sweetmagic:pure_choker:0": {
+  "heat": 3.0,
+  "cold": 0.375
+ },
+ "sweetmagic:ifrite_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:curious_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:shop_uniform:0": {
+  "heat": 0.35,
+  "cold": 0.35
+ },
+ "sweetmagic:deus_choker:0": {
+  "heat": 5.0,
+  "cold": 0.5
+ },
+ "sweetmagic:sandryon_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:magicians_robe:0": {
+  "heat": 5.0,
+  "cold": 5.0
+ },
+ "sweetmagic:kitt_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:magicians_pouch:0": {
+  "heat": 2.5,
+  "cold": 2.5
+ },
+ "sweetmagic:aether_boot:0": {
+  "heat": 0.25,
+  "cold": 2.5
+ },
+ "sweetmagic:wizard_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:master_magia_pouch:0": {
+  "heat": 3.5,
+  "cold": 3.5
+ },
+ "sweetmagic:feary_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ },
+ "sweetmagic:windine_robe:0": {
+  "heat": 7.5,
+  "cold": 7.5
+ }
+}
